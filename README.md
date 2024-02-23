@@ -3,7 +3,7 @@
 <h3>Using Machine Learning Algorithms</h3>
 
  <br>
-The Movie Recommender App, is an application that has been developed and trained using machine learning algorithms; the cosine similarity. <br>
+The Movie Recommender App, is an application that has been developed and trained using machine learning algorithms; KNearestNeighbours, BeautifulSoup4, and requests. <br>
 The app has the ability to recommend movies that are almost/similar to the movies that a user of the application will input in the form.  <br>
 There is also an alternative given using dropdown menu where thousands of movies have been referenced, the user only scrolls up and down and then requests for the recommendation.
  <br>
@@ -34,5 +34,5 @@ As part of the improvements made, the dropdown is simplified, genres are selecti
 
 The aid for French, German and Spanish language translation is yet to be implemented. <br>
  <br> My digital portfolio can be accessed via the link: https://bryanasegaportfolio-website.vercel.app/
-
- <br>The movie app repository can be accessed via the link: https://github.com/Asega-bryan07/Movie-Recommender-App.git
+<br>The downgrade of the movie app repository can be accessed via the link: https://github.com/Asega-bryan07/Movie-Recommender-App.git
+ <br>The upgraded version 2.0.1 of the movie app repository can be accessed via the link: https://github.com/Asega-bryan07/Movie-Recommender-App-v2.git
